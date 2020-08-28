@@ -15,9 +15,9 @@ this list of conditions and the following disclaimer in the documentation
 and/or other materials provided with the distribution.
 
 3. Products derived from this software may not 
-include ìCarnegie Mellon University,î "SEIî and/or 
-ìSoftware Engineering Institute" in the name of such derived product, 
-nor shall ìCarnegie Mellon University,î "SEIî and/or ìSoftware Engineering 
+include ‚ÄúCarnegie Mellon University,‚Äù "SEI‚Äù and/or 
+‚ÄúSoftware Engineering Institute" in the name of such derived product, 
+nor shall ‚ÄúCarnegie Mellon University,‚Äù "SEI‚Äù and/or ‚ÄúSoftware Engineering 
 Institute" be used to endorse or promote products derived from this software 
 without prior written permission. For written permission, please 
 contact permission@sei.cmu.edu.
@@ -27,13 +27,14 @@ uber eXtensible Micro-Hypervisor Framework (Raspberry Pi) includes and/or
 can make use of certain third party software ("Third Party Software"). The 
 Third Party Software that is used by uber eXtensible Micro-Hypervisor 
 Framework (Raspberry Pi) is dependent upon your system configuration, but 
-typically includes the software identified below. By using uber 
-eXtensible Micro-Hypervisor Framework (Raspberry Pi), You agree to comply 
-with any and all relevant Third Party Software terms and conditions contained 
-in any such Third Party Software or separate license file distributed with such 
-Third Party Software. The parties who own the Third Party 
-Software ("Third Party Licensors") are intended third party beneficiaries to 
-this License with respect to the terms applicable to their Third Party Software. 
+typically includes the software identified in the documentation associated
+with this software. By using uber eXtensible Micro-Hypervisor Framework
+(Raspberry Pi), You agree to comply with any and all relevant Third Party
+Software terms and conditions contained in any such Third Party Software
+or separate license file distributed with such Third Party Software.
+The parties who own the Third Party Software ("Third Party Licensors") 
+are intended third party beneficiaries to this License with respect to the
+terms applicable to their Third Party Software. 
 Third Party Software licenses only apply to the Third Party Software and not 
 any other portion of uber eXtensible Micro-Hypervisor Framework (Raspberry Pi),
 or uber eXtensible Micro-Hypervisor Framework (Raspberry Pi) as a whole.
@@ -60,7 +61,7 @@ RESPECT TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT.
 release and unlimited distribution. Please see Copyright notice for 
 non-US Government use and distribution.
 
-Carnegie MellonÆ is registered in the U.S. Patent and Trademark Office 
+Carnegie Mellon¬Æ is registered in the U.S. Patent and Trademark Office 
 by Carnegie Mellon University.
 
 DM18-0513
